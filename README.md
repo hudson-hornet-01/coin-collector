@@ -45,5 +45,4 @@ Coin-Collector/
 Vaibhav Kumar
 🎯 If you like this project, please ⭐ the repository!
 
-## 📂 Project Structure
 
